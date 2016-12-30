@@ -1,0 +1,13 @@
+{
+  "name": "dp-unveil",
+  "version": "1.0.0",
+  "description": "DP Image unveil",
+  "main": "jquery.dp-unveil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "frontend@docplanner.com",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
