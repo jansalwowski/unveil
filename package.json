@@ -1,5 +1,5 @@
 {
-  "name": "dp-unveil",
+  "name": "@docplanner/unveil",
   "version": "1.0.0",
   "description": "DP Image unveil",
   "main": "jquery.dp-unveil.js",
